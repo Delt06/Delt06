@@ -4,4 +4,4 @@
 
 I'm a Unity Developer and a Graphics Programmer (DX12, C++).
 
-I currently work on [Toon RP](https://github.com/Delt06/toon-rp/): a Scriptable Render Pipeline for Unity designed around stylized graphics.
+I currently work on [Toon RP](https://github.com/Delt06/toon-rp/): a Unity Scriptable Render Pipeline (SRP) designed around stylized graphics.
