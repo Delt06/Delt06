@@ -4,4 +4,4 @@
 
 I'm a Graphics Programmer (Unity/C#/SRP, DX12/C++).
 
-I currently work on [Toon RP](https://github.com/Delt06/toon-rp/): a Unity Scriptable Render Pipeline (SRP) designed around stylized graphics.
+I currently work on [AAAA RP](https://github.com/Delt06/aaaa-rp/): a Unity Scriptable Render Pipeline (SRP) featuring modern high-fidelity rendering techniques.
